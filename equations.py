@@ -62,13 +62,14 @@ def calculate(x):
         return b
     except:
         return (0.0)
-try:
-    number1=input ('enter a num1: ')
-    number2=input ('enter a num2: ')
-    x=float(number1)
-    y=float(number2)
+    
+#try:
+    #number1=input ('enter a num1: ')
+    #number2=input ('enter a num2: ')
+    #x=float(number1)
+    #y=float(number2)
     #print(calculate(x))
-    print(XtimesY(x,y))
+    #print(XtimesY(x,y))
     #print(sqrt(x,y))
-except:
-    print(0.0)
+#except:
+  #  print(0.0)
